@@ -7,7 +7,7 @@
     "dev": "nx dev",
     "build": "nx build",
     "start": "nx start",
-    "test": "nx test"
+    "test": "nx run e2e:e2e"
   },
   "nx": {
     "includedScripts": []
